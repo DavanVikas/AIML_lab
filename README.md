@@ -5,3 +5,4 @@
 4.[Assignment-4](https://github.com/DavanVikas/AIML_lab/blob/main/A4.ipynb)
 5.[Assignment-5](https://github.com/DavanVikas/AIML_lab/blob/main/A5.ipynb)
 6.[Assignment-6](https://github.com/DavanVikas/AIML_lab/blob/main/A6.ipynb)
+7.[Assignment-7](https://github.com/DavanVikas/AIML_lab/edit/main/A7.ipynb)
