@@ -8,3 +8,4 @@
 7.[Assignment-7](https://github.com/DavanVikas/AIML_lab/edit/main/A7.ipynb)
 8.[Assignment-8](https://github.com/DavanVikas/AIML_lab/blob/main/A8.ipynb)
 9.[Assignment-9](https://github.com/DavanVikas/AIML_lab/blob/main/A9.ipynb)
+10.[Assignment-10](https://github.com/DavanVikas/AIML_lab/blob/main/A10.ipynb)
